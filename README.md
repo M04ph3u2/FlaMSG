@@ -52,3 +52,4 @@ This project is open-source and available under the MIT License.
 Special thanks to my university "Politecnico di Bari" and Prof. Antonio Ferrara for the guidelines on the MERN Fullstack.
 
 Enjoy using FlaMSG! Feel free to reach out with any questions or feedback.
+<img src="https://flamsg.onrender.com/assets/loading-fe1b251d.gif" width="1%">
