@@ -34,15 +34,6 @@ FlaMSG is a FullStack MERN (MongoDB, Express, React, Node.js) chat web applicati
   - bcrypt (for password hashing)
   - WebSocket (for real-time communication)
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-- Fork the repository and create a new branch for your feature or bug fix.
-- Write clear, concise code and comments.
-- Test your changes thoroughly.
-- Create a pull request with a detailed description of your changes.
-
 ## License
 
 This project is open-source and available under the MIT License.
